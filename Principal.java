@@ -2,10 +2,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/**
- *
- * @author admin
- */
+
 public class Principal {
 
     public static final int OPCION_ALTA_ALUMNO = 1;
